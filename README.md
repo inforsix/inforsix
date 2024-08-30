@@ -18,7 +18,7 @@
 
 
 ## Recent Projects
-**iValley:** iValley, where fashion meets innovation. Shop the latest trends and timeless styles from top designers and emerging brands. Experience a seamless shopping journey with our curated collection, all available at your fingertips.  
+- **iValley:** iValley, where fashion meets innovation. Shop the latest trends and timeless styles from top designers and emerging brands. Experience a seamless shopping journey with our curated collection, all available at your fingertips.  
   [Live URL](https://ivalley.inforsix.com/)
 
 - **Fill Mart:** Fill Mart, the premier online marketplace where convenience meets variety. Explore an extensive range of products from top brands and local artisans, all from the comfort of your home.  
