@@ -16,6 +16,10 @@
 
 ![Our Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,redux,wordpress,nodejs,express,python,django,flask,java,flutter,github,firebase,aws,azure,mongodb,mysql,sqlite,figma)
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,redux,wordpress,nodejs,express,python,django,flask,java,flutter,github,firebase,aws,azure,mongodb,mysql,sqlite,figma" />
+</p>
+
 ## Recent Projects
 
 - **Project Name:** Description of the project, what it does, and the technology stack used.  
