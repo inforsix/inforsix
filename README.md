@@ -16,20 +16,17 @@
 
 ![Our Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,redux,wordpress,nodejs,express,python,django,flask,java,flutter,github,firebase,aws,azure,mongodb,mysql,sqlite,figma)
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,redux,wordpress,nodejs,express,python,django,flask,java,flutter,github,firebase,aws,azure,mongodb,mysql,sqlite,figma" />
-</p>
 
 ## Recent Projects
 
 - **Project Name:** Description of the project, what it does, and the technology stack used.  
-  [Demo Link](#) | [Repository](#)
+  [Live URL](https://ivalley.inforsix.com/)
 
 - **Project Name:** Description of the project, what it does, and the technology stack used.  
-  [Demo Link](#) | [Repository](#)
+  [Live URL](https://fillmart.inforsix.com/)
 
 - **Project Name:** Description of the project, what it does, and the technology stack used.  
-  [Demo Link](#) | [Repository](#)
+  [Live URL](https://tailor.inforsix.com/)
 
 ## Our Values
 - **Innovation:** We continuously seek new ways to solve problems and enhance our solutions.
