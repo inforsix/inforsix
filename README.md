@@ -1,4 +1,4 @@
-![Inforsix Limited Banner](https://your-image-url.com) <!-- Replace with your actual banner image URL -->
+![Inforsix Limited Banner](https://github.com/inforsix/inforsix/blob/main/Assets/Banner.png?raw=true) <!-- Replace with your actual banner image URL -->
 
 # Welcome to Inforsix Limited
 
