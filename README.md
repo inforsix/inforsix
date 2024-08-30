@@ -1,4 +1,4 @@
-![Inforsix Limited Banner](https://github.com/inforsix/inforsix/blob/main/Assets/Banner.png?raw=true) 
+![Inforsix Limited Banner](https://github.com/inforsix/inforsix/blob/main/Assets/inforsix.png?raw=true) 
 
 # Welcome to Inforsix Limited
 
@@ -19,13 +19,13 @@
 
 ## Recent Projects
 
-- **Project Name:** Description of the project, what it does, and the technology stack used.  
+- **Ivalley:** iValley, where fashion meets innovation. Shop the latest trends and timeless styles from top designers and emerging brands. Experience a seamless shopping journey with our curated collection, all available at your fingertips.
   [Live URL](https://ivalley.inforsix.com/)
 
-- **Fill Mart:** Description of the project, what it does, and the technology stack used.  
+- **Fill Mart:** Fill Mart, the premier online marketplace where convenience meets variety. Explore an extensive range of products from top brands and local artisans, all from the comfort of your home.  
   [Live URL](https://fillmart.inforsix.com/)
 
-- **Project Name:** Mr Tailor, a premier clothing shop known for its stylish and expertly tailored garments. Using WordPress, I crafted a sleek, user-friendly site that showcases their range of high-quality clothing and enhances the overall shopping experience.  
+- **Mr Tailor:** Mr Tailor, a premier clothing shop known for its stylish and expertly tailored garments. Using WordPress, I crafted a sleek, user-friendly site that showcases their range of high-quality clothing and enhances the overall shopping experience.  
   [Live URL](https://tailor.inforsix.com/)
 
 ## Our Values
