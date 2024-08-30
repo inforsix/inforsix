@@ -14,7 +14,7 @@
 
 ## Our Expertise
 
-![Our Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,django,aws,azure,html,css,bootstrap,tailwind,java,figma,flutter,firebase,flask,github,mongodb,mysql,nextjs,pycharm,redux,sqlite,wordpress,vscode)
+![Our Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,redux,wordpress,nodejs,express,python,django,flask,java,flutter,github,firebase,aws,azure,mongodb,mysql,sqlite,figma)
 
 ## Recent Projects
 
