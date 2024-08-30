@@ -22,10 +22,10 @@
 - **Project Name:** Description of the project, what it does, and the technology stack used.  
   [Live URL](https://ivalley.inforsix.com/)
 
-- **Project Name:** Description of the project, what it does, and the technology stack used.  
+- **Fill Mart:** Description of the project, what it does, and the technology stack used.  
   [Live URL](https://fillmart.inforsix.com/)
 
-- **Project Name:** Description of the project, what it does, and the technology stack used.  
+- **Project Name:** Mr Tailor, a premier clothing shop known for its stylish and expertly tailored garments. Using WordPress, I crafted a sleek, user-friendly site that showcases their range of high-quality clothing and enhances the overall shopping experience.  
   [Live URL](https://tailor.inforsix.com/)
 
 ## Our Values
@@ -43,11 +43,6 @@ Connect with us to discuss how we can help your business thrive in the digital a
 - [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/company/inforsix-limited)
 - [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg' alt='Twitter' height='40'>](https://x.com/inforsix)
 
-## Our GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Inforsix-Limited&theme=react&border_radius=5)
-
-![GitHub Status](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inforsix-Limited&theme=github)
 
 ---
 
