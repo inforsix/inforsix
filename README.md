@@ -40,7 +40,7 @@ Connect with us to discuss how we can help your business thrive in the digital a
 - 🌐 [Company Website](https://www.inforsix.com)
 - 📧 [Email Us](mailto:info@inforsix.com)
 - [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/company/inforsix-limited)
-- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/600px-Twitter-logo.svg.png' alt='Twitter' height='40'>](https://x.com/inforsix)
+- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg' alt='Twitter' height='40'>](https://x.com/inforsix)
 
 ## Our GitHub Stats
 
