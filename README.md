@@ -1,4 +1,4 @@
-![Inforsix Limited Banner](https://github.com/inforsix/inforsix/blob/main/Assets/Banner.png?raw=true) <!-- Replace with your actual banner image URL -->
+![Inforsix Limited Banner](https://github.com/inforsix/inforsix/blob/main/Assets/Banner.png?raw=true) 
 
 # Welcome to Inforsix Limited
 
@@ -6,15 +6,15 @@
 **Inforsix Limited** is a leading software development company specializing in delivering innovative and tailored software solutions. Our mission is to drive digital transformation for businesses by harnessing the power of technology and our expert team of developers. We take pride in our ability to create high-quality, scalable, and user-friendly software that meets the unique needs of our clients.
 
 ## What We Do
-- **Custom Software Development:** We build tailored software solutions to help businesses optimize their operations and enhance their digital presence.
+- **Software Development:** We build tailored software solutions to help businesses optimize their operations and enhance their digital presence.
 - **Web Development:** Our team excels in creating responsive, visually appealing, and user-friendly web applications.
 - **Mobile App Development:** We develop intuitive mobile apps that provide seamless user experiences across various devices and platforms.
-- **Cloud Solutions:** Inforsix Limited offers cloud-based solutions to improve accessibility, scalability, and security for our clients.
+- **WordPress Development:** Inforsix Limited specializes in creating powerful and dynamic WordPress websites, offering custom themes, plugins, and optimization services to meet specific business needs.
 - **IT Consulting:** We provide expert advice and guidance to businesses looking to enhance their IT infrastructure and strategy.
 
 ## Our Expertise
 
-![Our Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,django,aws,azure,html,css,bootstrap,tailwind) <!-- Update this with the relevant technologies your company uses -->
+![Our Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,django,aws,azure,html,css,bootstrap,tailwind,java,figma,flutter,firebase,flask,github,mongodb,mysql,nextjs,pycharm,redux,sqlite,wordpress,vscode)
 
 ## Recent Projects
 
